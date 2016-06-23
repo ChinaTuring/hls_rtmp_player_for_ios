@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6DFBD261B6BC43AA09CBCDEAD56C91A028387CD0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "90A0001FBCD022CCC4684456491FF5D55BA5F077" : 0,
+    "6DFBD261B6BC43AA09CBCDEAD56C91A028387CD0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D487DD76-7D21-4CA6-8F97-85400B2015AF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "90A0001FBCD022CCC4684456491FF5D55BA5F077" : "",
+    "6DFBD261B6BC43AA09CBCDEAD56C91A028387CD0" : "kxmovieDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "kxmovieDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "kxmovieDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:ChinaTuring\/player_for_ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6DFBD261B6BC43AA09CBCDEAD56C91A028387CD0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "gitlab.vbyte.cn:cpp\/advancedp2p.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "90A0001FBCD022CCC4684456491FF5D55BA5F077"
+    }
+  ]
+}
