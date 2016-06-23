@@ -1,16 +1,21 @@
 //
 //  main.m
-//  kxmovieDemo
+//  KxMovieExample
 //
-//  Created by duskash on 16/6/23.
-//  Copyright © 2016年 duskash. All rights reserved.
+//  Created by Kolyvan on 25.10.12.
+//
 //
 
 #import <UIKit/UIKit.h>
+
 #import "AppDelegate.h"
 
-int main(int argc, char * argv[]) {
+int main(int argc, char *argv[])
+{
     @autoreleasepool {
+#ifdef LoggerStartForBuildUser
+        LoggerStartForBuildUser();
+#endif
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
     }
 }
